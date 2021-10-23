@@ -1,0 +1,1 @@
+docker build -t sqlx-leak-repro . && docker run --rm sqlx-leak-repro
